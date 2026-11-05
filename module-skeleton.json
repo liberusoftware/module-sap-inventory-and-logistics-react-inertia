@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-inventory-and-logistics-react-inertia",
+  "capabilityKey": "planned:sap:inventory-and-logistics",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-sap-inventory-and-logistics-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/sap/nextjs/inventory-and-logistics.md",
+  "presentationPlan": "projects/sap/react/inventory-and-logistics.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
